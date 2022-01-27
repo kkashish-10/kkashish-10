@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kkashish-10
+- 👋 Hi, I’m Kashish.
 - 👀 I’m interested in Deep Learning and Cyber Security.
 - 🌱 I’m currently learning applications of NLP using Deep Learning, like Text generation, DNA analysis, Poetry Generation etc.
 - 💞️ I’m looking to collaborate on Deep Learning Projects in Natural Language Processing, Fraud Detection, Self Driving Vehicles etc.
